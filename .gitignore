@@ -140,3 +140,4 @@ cython_debug/
 
 
 /imdb_raw_data
+.DS_Store
