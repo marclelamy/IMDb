@@ -139,5 +139,8 @@ cython_debug/
 
 
 
-/imdb_raw_data
+/data
+/Tableau
+/old_data
+/.ipynb_checkpoints
 .DS_Store
